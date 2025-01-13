@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Kolokviumski1.2/Kolokviumski1.2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Kolokvium_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Kolokviumski1.2/Kolokviumski1.2" vcs="Git" />
   </component>
 </project>
